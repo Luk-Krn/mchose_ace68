@@ -1,6 +1,6 @@
 # MCHOSE Ace 68 - SignalRGB Plugin ⌨️✨
 
-A built-from-scratch, fully reverse-engineered SignalRGB plugin for the **MCHOSE Ace 68** keyboard. 
+A built-from-scratch, fully reverse-engineered SignalRGB plugin for the [**MCHOSE Ace 68**](https://www.mchose.store/products/mchose-ace-68-hall-effect-magnetic-switch-gaming-keyboard) keyboard. 
 
 This plugin seamlessly integrates the keyboard into [SignalRGB](https://signalrgb.com/), allowing full synchronization of your RGB lighting effects with the rest of your setup.
 
